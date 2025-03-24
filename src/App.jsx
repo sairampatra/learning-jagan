@@ -8,7 +8,7 @@ function App() {
   <AuthProvider>
       <Routing />
       <h1>LOL</h1>
-      <p>Asaan hai</p
+      <p>Asaan hai</p>
     </AuthProvider>   
      </>
   )
